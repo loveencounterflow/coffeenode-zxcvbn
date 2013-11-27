@@ -1,5 +1,5 @@
 {
-  "name": "zxcvbn",
+  "name": "coffeenode-zxcvbn",
   "version": "1.0.0",
   "description": "realistic password strength estimation",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mintplant/node-zxcvbn.git"
+    "url": "https://github.com/loveencounterflow/coffeenode-zxcvbn"
   },
   "keywords": [
     "realistic",
@@ -20,6 +20,16 @@
     "validate",
     "validation"
   ],
-  "author": "Dan Wheeler (published by Michael Smith)",
-  "license": "MIT"
+  "author": {
+    "name": "Dan Wheeler",
+    "url": "published by Michael Smith"
+  },
+  "license": "MIT",
+  "readme": "# node-zxcvbn\n\n[zxcvbn](https://github.com/lowe/zxcvbn) password strength calculator, published\nas a node.js module.\n\nAuthored by Dan Wheeler at Dropbox. Published to npm by Michael Smith.\n\nSee [the original](https://github.com/lowe/zxcvbn) for more details.\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/loveencounterflow/coffeenode-zxcvbn/issues"
+  },
+  "_from": "zxcvbn@",
+  "_resolved": "https://registry.npmjs.org/zxcvbn/-/zxcvbn-1.0.0.tgz"
 }
